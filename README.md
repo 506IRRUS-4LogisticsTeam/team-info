@@ -138,30 +138,10 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 
 ## The Team
 
-### S-4 Logistics HQ
 
 | Role | Member |
 |------|--------|
-| S-4 Logistics Officer | CPT Drumheller |
-| S-4 Logistics Chief | 1LT C. Mitchell |
-
-### Missions Team
-
-| Role | Member |
-|------|--------|
-| Missions Chief | CW4 I. Steves |
-| Missions Specialist (2IC) | **OPEN** |
-| Missions Specialist | SSG Anthem |
-| Missions Specialist | **OPEN** |
-| Missions Specialist | **OPEN** |
-| Missions Specialist [Floater] | **OPEN** |
-| Missions Specialist [CACTF, Floater] | **OPEN** |
-
-### Mod Team
-
-| Role | Member |
-|------|--------|
-| Mod Chief | 1LT C. Mitchell |
+| Team Chief | 1LT C. Mitchell |
 | Research and Development Specialist | 2LT Campbell |
 | Research and Development Specialist | CW3 Fraser |
 | Research and Development Specialist | SPC Fanning |
