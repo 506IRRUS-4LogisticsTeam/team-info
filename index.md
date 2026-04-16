@@ -23,14 +23,8 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Medical - Down, Treat, Up, Down | fedoraman737, MaximusDecimusAnthemus |
 
-### 🔍 In S-4 Review
-
-| Item | Assignee |
-|------|----------|
-| [EQUIPMENT] Adjust M7 Mag Placement in pouches/placards | fedoraman737, SHS-Lucalis |
-
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (39 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (42 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -70,6 +64,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [ENHANCEMENT?] Tall Grass reduction | — |
 | Draft | — |
 | [WEAPON] NGSW Fixes and Adjustments | fedoraman737, MaximusDecimusAnthemus |
+| [EQUIPMENT] Adjust M7 Mag Placement in pouches/placards | fedoraman737, SHS-Lucalis |
 | [AMMO] Increase HE and HEDP lethality | — |
 | [AMMO] Nerf HEAT-751 penetration values | — |
 | [CRITICAL] Bacon Loadout Editor Save Corruption | fedoraman737, MaximusDecimusAnthemus, SHS-Lucalis, FoxtrotNovember03 |
