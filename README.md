@@ -25,6 +25,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Medical - Down, Treat, Up, Down | fedoraman737, MaximusDecimusAnthemus |
 | SYSTEM - Stealth Indicator | fedoraman737 |
+| [BUG] - Undo changes made to the flashbang | FlannelDev |
 
 <details markdown="1">
 <summary><strong>✅ Complete and Implemented</strong> (42 items)</summary>
