@@ -23,10 +23,9 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Medical - Down, Treat, Up, Down | fedoraman737, MaximusDecimusAnthemus |
 | SYSTEM - Stealth Indicator | fedoraman737 |
-| [BUG] - Undo changes made to the flashbang | FlannelDev |
 
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (42 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (43 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -72,6 +71,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [CRITICAL] Bacon Loadout Editor Save Corruption | fedoraman737, MaximusDecimusAnthemus, SHS-Lucalis, FoxtrotNovember03 |
 | [SYSTEM] Ticket System - GM | — |
 | Mod Test - CAPS WEAPON PACK | fedoraman737 |
+| [BUG] - Undo changes made to the flashbang | FlannelDev |
 
 </details>
 <!-- ROADMAP:END - Do not remove or modify this section -->
