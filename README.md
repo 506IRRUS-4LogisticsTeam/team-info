@@ -24,6 +24,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | JLTV/Vehicle Inventories | FlannelDev |
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Medical - Down, Treat, Up, Down | fedoraman737, MaximusDecimusAnthemus |
+| [WAR ROOM] - Arma Reforger Update Version 1.7x | benringrose, FlannelDev, fedoraman737, MaximusDecimusAnthemus |
 
 <details markdown="1">
 <summary><strong>✅ Complete and Implemented</strong> (45 items)</summary>
