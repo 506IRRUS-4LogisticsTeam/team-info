@@ -21,10 +21,9 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | Custom 506IRRU Arsenal | FlannelDev |
 | JLTV/Vehicle Inventories | FlannelDev |
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
-| [WAR ROOM] - Arma Reforger Update Version 1.7x | benringrose, FlannelDev, fedoraman737, MaximusDecimusAnthemus |
 
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (48 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (49 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -76,6 +75,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [BUG] - Undo changes made to the flashbang | FlannelDev |
 | [BUG] - MTLB Excessive Armor | fedoraman737 |
 | [MEDICAL] - Change image of chest seal. | fedoraman737 |
+| [WAR ROOM] - Arma Reforger Update Version 1.7x | benringrose, FlannelDev, fedoraman737, MaximusDecimusAnthemus |
 
 </details>
 <!-- ROADMAP:END - Do not remove or modify this section -->
