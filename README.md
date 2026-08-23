@@ -24,8 +24,14 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | JLTV/Vehicle Inventories | FlannelDev |
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 
+### 🔍 In S-4 Review
+
+| Item | Assignee |
+|------|----------|
+| [BUG] Audio Routing not Applying Correctly in Multiplayer | fedoraman737 |
+
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (49 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (50 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -73,6 +79,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [SYSTEM] Ticket System - GM | — |
 | Mod Test - CAPS WEAPON PACK | fedoraman737 |
 | SYSTEM - Stealth for Stalker Uniforms | fedoraman737 |
+| SYSTEM - GM Speak Locally | fedoraman737 |
 | SYSTEM - Stealth Indicator | fedoraman737 |
 | [BUG] - Undo changes made to the flashbang | FlannelDev |
 | [BUG] - MTLB Excessive Armor | fedoraman737 |
