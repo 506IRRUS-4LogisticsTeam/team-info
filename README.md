@@ -24,14 +24,8 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | JLTV/Vehicle Inventories | FlannelDev |
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 
-### 🔍 In S-4 Review
-
-| Item | Assignee |
-|------|----------|
-| [BUG] Audio Routing not Applying Correctly in Multiplayer | fedoraman737 |
-
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (50 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (51 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -85,6 +79,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [BUG] - MTLB Excessive Armor | fedoraman737 |
 | [MEDICAL] - Change image of chest seal. | fedoraman737 |
 | [WAR ROOM] - Arma Reforger Update Version 1.7x | benringrose, FlannelDev, fedoraman737, MaximusDecimusAnthemus |
+| [BUG] Audio Routing not Applying Correctly in Multiplayer | fedoraman737 |
 
 </details>
 <!-- ROADMAP:END - Do not remove or modify this section -->
