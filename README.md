@@ -23,9 +23,10 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | Custom 506IRRU Arsenal | FlannelDev |
 | JLTV/Vehicle Inventories | FlannelDev |
 | [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
+| Missing Engine Sounds - Cougar MRAP | fedoraman737 |
 
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (53 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (54 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -81,6 +82,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [WAR ROOM] - Arma Reforger Update Version 1.7x | benringrose, FlannelDev, fedoraman737, MaximusDecimusAnthemus |
 | [BUG] Audio Routing not Applying Correctly in Multiplayer | fedoraman737 |
 | [BUG] CPR Not Applying HP upon completion | fedoraman737 |
+| [RADIO] Change Radiotransceivers to Relaytransceivers | fedoraman737 |
 | [MEDICAL] - Add Additional Casualty Logging | fedoraman737 |
 
 </details>
