@@ -22,11 +22,10 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 |------|----------|
 | Custom 506IRRU Arsenal | FlannelDev |
 | JLTV/Vehicle Inventories | FlannelDev |
-| [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Missing Engine Sounds - Cougar MRAP | fedoraman737 |
 
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (54 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (57 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -65,14 +64,17 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [VEHICLE] - Fix Littlebird Audio Issues | fedoraman737 |
 | [ENHANCEMENT?] Tall Grass reduction | — |
 | Draft | — |
+| [AMMO] Model HEAT-751 Round | fedoraman737, SHS-Lucalis |
 | [WEAPON] NGSW Fixes and Adjustments | fedoraman737, MaximusDecimusAnthemus |
 | [EQUIPMENT] Adjust M7 Mag Placement in pouches/placards | fedoraman737, SHS-Lucalis |
 | [AMMO] Increase HE and HEDP lethality | — |
 | [AMMO] Nerf HEAT-751 penetration values | — |
 | [CRITICAL] Bacon Loadout Editor Save Corruption | fedoraman737, MaximusDecimusAnthemus, SHS-Lucalis, FoxtrotNovember03 |
+| [MOD UPDATE] 506IRRU General Adjustments | FlannelDev |
 | Medical - Down, Treat, Up, Down | fedoraman737, MaximusDecimusAnthemus |
 | [SYSTEM] Ticket System - GM | — |
 | Mod Test - CAPS WEAPON PACK | fedoraman737 |
+| WSD Mod Testing - Maxx Pro 2.0 | FoxtrotNovember03 |
 | SYSTEM - Stealth for Stalker Uniforms | fedoraman737 |
 | SYSTEM - GM Speak Locally | fedoraman737 |
 | SYSTEM - Stealth Indicator | fedoraman737 |
