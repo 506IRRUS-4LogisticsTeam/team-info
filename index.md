@@ -23,7 +23,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | Missing Engine Sounds - Cougar MRAP | fedoraman737 |
 
 <details markdown="1">
-<summary><strong>✅ Complete and Implemented</strong> (59 items)</summary>
+<summary><strong>✅ Complete and Implemented</strong> (60 items)</summary>
 
 | Item | Assignee |
 |------|----------|
@@ -84,6 +84,7 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | [BUG] CPR Not Applying HP upon completion | fedoraman737 |
 | [RADIO] Change Radiotransceivers to Relaytransceivers | fedoraman737 |
 | [MEDICAL] - Add Additional Casualty Logging | fedoraman737 |
+| Draft | — |
 | Draft | — |
 | Draft | — |
 
