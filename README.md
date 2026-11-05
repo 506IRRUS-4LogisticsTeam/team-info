@@ -35,9 +35,9 @@ The **S-4 Mod Team** develops, maintains, and updates all custom Arma Reforger m
 | Mod Updates for Deployment (Operation Dust Devil) | FlannelDev |
 | Split Radios | FlannelDev, fedoraman737, Toastyx34 |
 | Medical System | FlannelDev, fedoraman737 |
-| Patches (Assigned 5th March) | TheTermifailure |
+| Patches (Assigned 5th March) | thetermifailure |
 | GM Budgets broken | FlannelDev |
-| Backpack | TheTermifailure |
+| Backpack | thetermifailure |
 | Review Results of Mortar Testing 01AUG25 | fedoraman737 |
 | Bug fix | fedoraman737 |
 | MEDICAL - Gameplay Enhancements and Realism Improvements | fedoraman737 |
